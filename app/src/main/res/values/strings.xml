@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentPlus</string>
+    <string name="title_activity_od">odActivity</string>
+    <string name="tab_text_1">OD Status</string>
+    <string name="tab_text_2">Leave Status</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
